@@ -67,8 +67,6 @@ The script operates on a continuous processing cycle divided into three clear st
    ```bash
    python tracker.py
 
-
-
 ---
 
 # Project 3: Cryptographically Secure Password Generator
@@ -105,10 +103,9 @@ The generator manages security through a strict three-phase process:
    python password_generator.py
 
 
+https://github.com/user-attachments/assets/764d1456-0d45-46d9-9d6f-5d9e6a326a3f
 
-
-
-
+---
 # Project 4: General Knowledge Quiz
 
 A dynamic command line quiz game built using an Input-Process-Output structure. The program asks the user three separate questions, checks their answers using conditional logic, tracks their points, and prints a final rank report at the end.
