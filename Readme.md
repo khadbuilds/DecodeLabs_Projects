@@ -31,6 +31,7 @@ The program handles data management by breaking the tasks down into three simple
    ```bash
    python todo_engine.py
 
+https://github.com/user-attachments/assets/c8052021-be61-4bda-b844-bb3f6e22ffa9
 
 ---
 
@@ -67,6 +68,8 @@ The script operates on a continuous processing cycle divided into three clear st
    ```bash
    python tracker.py
 
+https://github.com/user-attachments/assets/560caed2-00ef-4aec-9f6f-46c85bc3ba48
+
 ---
 
 # Project 3: Cryptographically Secure Password Generator
@@ -101,7 +104,6 @@ The generator manages security through a strict three-phase process:
 3. Run the following command:
    ```bash
    python password_generator.py
-
 
 https://github.com/user-attachments/assets/764d1456-0d45-46d9-9d6f-5d9e6a326a3f
 
